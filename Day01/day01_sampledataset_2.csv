@@ -1,0 +1,22 @@
+city,date,temperature
+New York,2023-07-01,29.1
+New York,2023-07-02,30.4
+New York,2023-07-03,28.9
+Los Angeles,2023-07-01,26.7
+Los Angeles,2023-07-02,27.5
+Los Angeles,2023-07-03,25.9
+Chicago,2023-07-01,24.2
+Chicago,2023-07-02,23.9
+Chicago,2023-07-03,25.1
+Houston,2023-07-01,33.2
+Houston,2023-07-02,32.8
+Houston,2023-07-03,34.0
+Phoenix,2023-07-01,41.1
+Phoenix,2023-07-02,40.7
+Phoenix,2023-07-03,42.0
+Seattle,2023-07-01,21.5
+Seattle,2023-07-02,22.1
+Seattle,2023-07-03,20.9
+Boston,2023-07-01,27.4
+Boston,2023-07-02,28.2
+Boston,2023-07-03,26.5
